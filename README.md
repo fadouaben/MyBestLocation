@@ -1,4 +1,5 @@
 # MyBestLocation
+(JSONParser.java) 
 Projet mobile avec Android Studio
 DashboardFragment:-EditText longitude
                   -EditText latitude
