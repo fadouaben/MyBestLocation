@@ -1,6 +1,6 @@
 # MyBestLocation
+3ème Projet academique mobile avec Android Studio
 (JSONParser.java) 
-Projet mobile avec Android Studio
 DashboardFragment:-EditText longitude
                   -EditText latitude
                   -EditText description
